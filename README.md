@@ -1,2 +1,2 @@
 # Desafio-DIO---Python
-Resolição de desafios da trilha de formação.
+Resolução de desafios da trilha de formação.
